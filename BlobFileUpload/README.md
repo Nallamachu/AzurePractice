@@ -1,0 +1,2 @@
+# AzurePractice
+Azure POC projects
